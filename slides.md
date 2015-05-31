@@ -25,24 +25,15 @@
 ---
 
 ##Web Development
-
-* What does web development mean to you?
-
----
-
-##Web Development
-###Websites vs Webapps
-
----
-
-##Web Development
-###Back-end vs Front-end Development
+###Basic Concepts
 
 Let's define a few terms:
 
 * _Web Development_ <span class="fragment" data-fragment-index="1"> - building applications available on the web</span>
-* _Front-End Development_ <span class="fragment" data-fragment-index="2"> - client / browser code (HTML, CSS, JavaScript)</span>
-* _Back-End Development_ <span class="fragment" data-fragment-index="3"> - server-side code (Ruby, C#.NET, Java)</span>
+* _Website_ <span class="fragment" data-fragment-index="2"> - a website provides **_static_** content on the web</span>
+* _Webapp_ <span class="fragment" data-fragment-index="3"> - a webapp provides **_dynamic_** content on the web</span>
+* _Front-End Development_ <span class="fragment" data-fragment-index="4"> - client / browser code (HTML, CSS, JavaScript)</span>
+* _Back-End Development_ <span class="fragment" data-fragment-index="5"> - server-side code (Ruby, C#.NET, Java)</span>
 
 ---
 
