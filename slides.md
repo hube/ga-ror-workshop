@@ -209,14 +209,13 @@ $ rails generate controller books
 
 ---
 
-##Rails & My Browser
-###The request/response cycle
+##The Road Goes Ever On
+###Learning Resources
 
-* HTTP (the protocol that drives the Web) communicates via input/output just like the terminal.
-
-* Browsers send a request (the input) and the server returns a response (the output).
-
-![Request Response Diagram](assets/response_request.png)
+* [Rails Guides](http://guides.rubyonrails.org/)
+* [Codecademy RoR](http://www.codecademy.com/learn/learn-rails)
+* [Codecademy Ruby](http://www.codecademy.com/tracks/ruby)
+* [Coursera](https://www.coursera.org/)
 
 ---
 
