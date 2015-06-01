@@ -8,7 +8,7 @@ Install the following tools:
 1. [Atom](https://atom.io/) - A text editor. You will be writing all of your
   code in a text editor. Microsoft Word is not acceptable.
 2. [Ruby Installer](http://rubyinstaller.org/downloads/) - The Ruby programming
-  language interpreter. Download and run the installer for Ruby 2.2.2 (select
+  language interpreter. Download and run the installer for Ruby 2.0.0 (select
   the non-`x64` version).
   * When installing Ruby, select the "Add Ruby executables to your PATH" and
     "Associate .rb and .rbw files with this Ruby installation" options.
