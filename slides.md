@@ -178,15 +178,14 @@ $ rails s
 ---
 
 ##Recap
-###Generators
+###Scaffolds
 
 ```bash
-$ rails generate model Book author:string title:string abstract:text
-$ rails generate model Shelf category:string
-$ rails generate controller books
+$ rails generate scaffold Book author:string title:string abstract:text
+$ rails generate scaffold Shelf category:string
 ```
 
-* Generators provide the bare necessities for adding a resource or model to your Rails app
+* Scaffolds generate the necessary files for adding a model to your Rails app
 
 ---
 
