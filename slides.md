@@ -108,6 +108,13 @@ See more [here](http://www.developerdrive.com/2011/09/20-best-sites-built-with-r
 
 ---
 
+##Ruby on Rails
+###Architecture: MVC
+
+![](assets/mvc_diagram.png)
+
+---
+
 ##The Command Line
 ###What is it?
 
