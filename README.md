@@ -8,7 +8,7 @@ Install the following tools:
 1. [Atom](https://atom.io/) - A text editor. You will be writing all of your
   code in a text editor. Microsoft Word is not acceptable.
 2. [Ruby Installer](http://rubyinstaller.org/downloads/) - The Ruby programming
-  language interpreter. Download and run the installer for *Ruby 2.0.0* (select
+  language interpreter. Download and run the installer for **Ruby 2.0.0** (select
   the non-`x64` version).
   * When installing Ruby, select the "Add Ruby executables to your PATH" and
     "Associate .rb and .rbw files with this Ruby installation" options.
@@ -33,7 +33,7 @@ Install the following tools:
 ## Mac OS X
 1. Ensure you are running the latest version of OS X
   ([instructions](https://support.apple.com/en-hk/HT201260)). You should be on
-  OS X Yosemite (10.10.3).
+  OS X Yosemite (10.10.5).
 2. Install the Xcode Command Line Tools. Open the Terminal and run
   `xcode-select --install`
   ([detailed instructions](http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/)).
