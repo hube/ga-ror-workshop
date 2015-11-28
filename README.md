@@ -33,7 +33,7 @@ Install the following tools:
 ## Mac OS X
 1. Ensure you are running the latest version of OS X
   ([instructions](https://support.apple.com/en-hk/HT201260)). You should be on
-  OS X Yosemite (10.10.5).
+  OS X El Capitan (10.11.1).
 2. Install the Xcode Command Line Tools. Open the Terminal and run
   `xcode-select --install`
   ([detailed instructions](http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/)).
