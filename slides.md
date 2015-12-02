@@ -197,6 +197,17 @@ we can use:
 ---
 
 ##Our First Rails App
+###A basic blog
+
+1. Generate a new Rails app
+2. Define basic blog model
+3. Define a database schema
+4. Define routes
+5. Customize user interface
+
+---
+
+##Our First Rails App
 
 Instructions at https://github.com/hube/ga-ror-workshop-1
 
