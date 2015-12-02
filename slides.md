@@ -17,7 +17,9 @@
 
 * What is Web Development?
 * Ruby on Rails
-* The Command Line
+* Developer Basics
+  * The File System
+  * The Command Line
 * Our First Rails App
 
 * Please feel free to ask questions at any time!
@@ -115,8 +117,34 @@ See more [here](http://www.developerdrive.com/2011/09/20-best-sites-built-with-r
 
 ---
 
-##The Command Line
-###What is it?
+##Developer Basics
+###The File System: What is it?
+
+The file system is how your computer stores and organizes data. Operating
+systems commonly use a hierarchical structure to organize data with
+**directories** (or **folders**) and **files**.
+
+<span class="fragment" data-fragment-index="1">
+**Windows Explorer** and the Mac **Finder** are both applications that let you
+explore your computer's file system visually.
+</span>
+
+---
+
+##Developer Basics
+###The File System: What is it?
+
+Files within a file system may be uniquely identified by their file path
+(location within the file system). E.g.:
+
+* `C:\Users\Hube\Desktop\hello.txt` (Windows)
+* `/Users/hube/Desktop/hello.txt` (Mac)
+* `/home/hube/hello.txt` (Linux)
+
+---
+
+##Developer Basics
+###The Command Line: What is it?
 
 The command line is a terminal giving you direct access to your operating
 system. You can enter simple commands to perform a variety of functions.
@@ -126,8 +154,8 @@ best performed in the command line.
 
 ---
 
-##The Command Line
-###Where do I start?
+##Developer Basics
+###The Command Line: Where do I start?
 
 For Macs:
 
@@ -138,6 +166,45 @@ For Windows:
 
 * Open the "Command Prompt" application
 * For a better experience, try [Console2](http://sourceforge.net/projects/console/)
+
+---
+
+##Developer Basics
+###The Command Line: Basic commands
+
+* `dir <path>` (Windows)/`ls <path>` (Mac/Linux) - **L**i**s**t directory contents
+* `cd` (Windows)/`pwd` (Mac/Linux) - Show path to **c**urrent **d**irectory
+* `mkdir <name>` (Windows/Mac/Linux) - **M**ake a **dir**ectory
+
+Basic reference also available in the
+[workshop wiki](https://github.com/hube/ga-ror-workshop-1/wiki/CLI-Reference)
+
+---
+
+##Developer Basics
+###The Command Line: Shortcuts
+
+When specifying paths as part of a command, we have two shortcut placeholders
+we can use:
+
+* `.` - represents the current directory
+* `..` - represents the parent directory
+* `%USERPROFILE%` (Windows) or `~` (Mac/Linux) - represents the home directory
+* `\` (Windows) or `/` (Mac/Linux) - represents the root directory (the top of the file system)
+
+---
+
+##Developer Basics
+###The Command Line: Pop Quiz
+
+1. What do the following commands do?
+  * `cd ~`
+  * `mkdir ~/code`
+  * `ls ..`
+2. What command would you enter to do the following:
+  * Navigate to the root directory
+  * Navigate up two directories
+  * Create a directory called "work" in the root directory
 
 ---
 
