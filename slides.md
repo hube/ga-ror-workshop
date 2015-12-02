@@ -43,21 +43,9 @@ Let's define a few terms:
 ###How the internet works
 
 * To understand Ruby on Rails we need to understand the internet
-
----
-
-![GeneralAssemb.ly](assets/Exercise_icon_md.png)
-##Draw The Internet
-
-Time: 7 minutes
-
-1. Grab a whiteboard marker
-2. Draw a diagram that represents your understanding of how the Internet works.
-  Here are some questions to consider as you draw:
   * What happens when you hit enter on your address bar?
   * Where does a website live?
   * What does a webserver need to do in order to respond to your request?
-3. Share with the rest of the class and let's discuss
 
 ---
 
@@ -149,23 +137,23 @@ Files within a file system may be uniquely identified by their file path
 The command line is a terminal giving you direct access to your operating
 system. You can enter simple commands to perform a variety of functions.
 
-Many of the tasks we need to carry out (such as running the Rails server) are
-best performed in the command line.
+Many of the tasks we need to carry out (such as running the Rails server) can
+only be performed on the command line.
 
 ---
 
 ##Developer Basics
 ###The Command Line: Where do I start?
 
-For Macs:
-
-* Open the "Terminal" app
-* For a better experience, try [iTerm 2](https://www.iterm2.com/)
-
 For Windows:
 
 * Open the "Command Prompt" application
 * For a better experience, try [Console2](http://sourceforge.net/projects/console/)
+
+For Macs:
+
+* Open the "Terminal" app
+* For a better experience, try [iTerm 2](https://www.iterm2.com/)
 
 ---
 
